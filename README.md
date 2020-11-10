@@ -10,7 +10,6 @@ AWS Certified Solutions Architect - Professional
 
 <p> If you are currently preparing for your AWS exam, we encourage you to take some time to read these exam study guides. These contain a lot of resources and tips (based on the collated exam experience of our team and our students) that can prove to be valuable in your exam preparations. <p>
 
-
 <h1 style="background-color:Gray;"><li><a href="https://tutorialsdojo.com/aws-study-path-notes/" target="_blank" > AWS Exam Study Guides </a></li> <h1>
 
 <h1 style="background-color:Gray;"><li><a href="https://tutorialsdojo.com/how-to-book-and-take-your-aws-certification-exam-online-saa-c02/ " target="_blank" >How to Book and Take Your Online AWS Exam</a></li> <h1>
@@ -18,8 +17,6 @@ AWS Certified Solutions Architect - Professional
 <h1 style="background-color:Gray;"><li><a href="https://tutorialsdojo.com/which-aws-certification-exam-is-right-for-me/ " target="_blank" > Which AWS Certification is Right For Me- Part1 </a></li> <h1>
 
 <h1 style="background-color:Gray;"><li><a href="https://tutorialsdojo.com/which-aws-certification-exam-is-right-for-me-part-2/ " target="_blank" > Which AWS Certification is Right For Me- Part2</a></li> <h1>
-
-
 
 <h1 style="background-color:Gray;"> <li> <a href="https://tutorialsdojo.com/aws-certified-cloud-practitioner/" target="_blank">Cloud Practitioner</a> </li> </h1>
 
