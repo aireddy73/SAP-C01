@@ -8,13 +8,9 @@ AWS Certified Solutions Architect - Professional
 <body style="background-color:powderblue;">
 
 <h2> AWS Exam Preparation Study Guides</h2> 
-
 <p> If you are currently preparing for your AWS exam, Tutorials Dojo team encourage you to take some time to read these exam study guides. These study guides contain a lot of resources and tips (based on the collated exam experience of Tutorials Dojo team and their students) that can prove to be valuable in your exam preparations. <p>
   
-
-
 <h1 style="background-color:Gray;"><li><a href="https://tutorialsdojo.com/aws-study-path-notes/" target="_blank" > AWS Exam Study Guides </a></li> <h1>
-
 <h1 style="background-color:Gray;"> <li> <a href="https://tutorialsdojo.com/aws-certified-cloud-practitioner/" target="_blank">Cloud Practitioner</a> </li> </h1>
 <h1 style="background-color:Gray;"> <li><a href="https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/" target="_blank" >Solutions Architect Associate</a></li> </h1>
 <h1 style="background-color:Gray;"><li><a href="https://tutorialsdojo.com/aws-certified-developer-associate/" target="_blank">Developer Associate</a></li> </h1>
